@@ -39,8 +39,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Commit History:-
-  <img src="https://raw.githubusercontent.com/Dev7478/Dev7478/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" align="center">
+## Contribution:-
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 ### ✍️ Random Dev Quote
