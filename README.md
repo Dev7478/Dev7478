@@ -1,4 +1,6 @@
-  <h1 align="center">
+![logo](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyNjkyNDgsIm5iZiI6MTcyMjI2ODk0OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI5VDE2MDIyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExZjIwMTliZmVhY2NhYjMwMjBkNzBhODgzM2JlMDlkODkzNmEwZWZkNjE5NDAxZDE5MWM4N2MyNDRmYzc1ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iQzX1gw7EqkXZttCU-ZUGlFQWvuL-PncD4QNcgcHSUo)
+
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋..+I'm+ Debanshu Chatterjee;This+is..;..my+Github..;" alt="Typing SVG"/>
   </h1>
 <h3 align="center">>I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
