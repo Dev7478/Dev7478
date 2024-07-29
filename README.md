@@ -1,8 +1,6 @@
-  <div align="center">
-  <h1>
+  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋..+I'm+ Debanshu Chatterjee;This+is..;..my+Github..;" alt="Typing SVG"/>
   </h1>
-</div>
 <h3 align="center">>I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
@@ -35,7 +33,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Commit History
+## Commit History:-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dev7478/Dev7478/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
