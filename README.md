@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="img" width="450px">
 <p align="left"> <a href="https://twitter.com/dev_chatterjee_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_chatterjee_?logo=twitter&style=for-the-badge" alt="dev_chatterjee_" /></a> </p>
-- 💻 I'm a **fullstack web developer & designer**
+- 💻 I’m a **Fullstack web developer, Designer**
 
 - 🌱 I’m currently learning **MERN Stack, AI & ML**
 
