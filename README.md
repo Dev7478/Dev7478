@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Debanshu Chatterjee</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+  <div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋..+I'm+ Debanshu Chatterjee;This+is..;..my+Github..;" alt="Typing SVG"/>
+  </h1>
+</div>
+<h3 align="center">>I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
 
@@ -31,6 +35,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+## Commit History
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dev7478/Dev7478/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -41,6 +51,6 @@
 [![](https://visitcount.itsvg.in/api?id=Dev7478&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/debanshuchatterrjee@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/debanshuchatterrjee@gmail.com)
 
 Support 🙏
