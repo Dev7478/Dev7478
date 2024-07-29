@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
 
-<p align="left"> <a href="https://x.com/Dev_Chatterjee_" target="blank"><img src="https://img.shields.io/x/follow/Dev_Chatterjee_?logo=x&style=for-the-badge" alt="Dev_Chatterjee_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_chatterjee_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_chatterjee_?logo=twitter&style=for-the-badge" alt="dev_chatterjee_" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack, AI & ML**
 
@@ -13,8 +14,9 @@
 
 <h3 align="left">🌐 Socials::</h3>
 <p align="left">
-<a href="https://x.com/Dev_Chatterjee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dev_Chatterjee_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debanshu-chatterjee-dev-61a121265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debanshu-chatterjee-dev-61a121265/" height="30" width="40" /></a>
+<a href="https://twitter.com/dev_chatterjee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_chatterjee_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debanshu-chatterjee-dev-61a121265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanshu-chatterjee-dev-61a121265" height="30" width="40" /></a>
+<a href="https://fb.com/debanshuchatterjee.anshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debanshuchatterjee.anshu" height="30" width="40" /></a>
 <a href="https://instagram.com/midnight_rider_060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midnight_rider_060" height="30" width="40" /></a>
 </p>
 
