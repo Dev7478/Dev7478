@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dev_chatterjee_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_chatterjee_?logo=twitter&style=for-the-badge" alt="dev_chatterjee_" /></a> </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" align="right" alt="img" width="300px">
 
 - 🌱 I’m currently learning **MERN Stack, AI & ML**
