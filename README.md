@@ -1,10 +1,8 @@
 ![logo](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyODEyODAsIm5iZiI6MTcyMjI4MDk4MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI5VDE5MjMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0NjgzYTk2NjFlYTliNmJiNzFmZWExYWYzYmNhOTk0ZTIxZWQyZTZlM2Q0NTY2ODRlMDljYjVjOTdlZGFlNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Hwq29GH8dtrgCchMZSvuNGxLF0sZb-7pVjNtFvwz9rw)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋..+I'm+ Debanshu Chatterjee;This+is..;..my+Github..;" alt="Typing SVG"/>
-  </h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi👋..+I'm+ Debanshu Chatterjee;This+is..;..my+Github..;" alt="Typing SVG">
 <img align="center" width="1100px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-<h3 align="center">>I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
+<h3 align="center" I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="img" width="450px">
@@ -36,13 +34,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="200px">
 
 ## 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" width="1100px">
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## Commit History:-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dev7478/Dev7478/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+  <img src="https://raw.githubusercontent.com/Dev7478/Dev7478/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" align="center">
 
 
 ### ✍️ Random Dev Quote
@@ -53,11 +48,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dev7478&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" align="right" width="300px" >
 
----
+---<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" width="1100px">
 [![](https://visitcount.itsvg.in/api?id=Dev7478&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/debanshuchatterrjee@gmail.com)
 
 Support 🙏
