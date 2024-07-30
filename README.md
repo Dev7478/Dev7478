@@ -40,7 +40,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## Contribution:-
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
