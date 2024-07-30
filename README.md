@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Contribution:-
+## 📊 Contribution:-
 ![snake gif](https://github.com/Dev7478/Dev7478/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
