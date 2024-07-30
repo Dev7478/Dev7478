@@ -50,9 +50,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dev7478&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" align="right" width="300px" >
 
----<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" width="1100px">
-[![](https://visitcount.itsvg.in/api?id=Dev7478&icon=2&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" width="1100px">
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbiprajitpaul5555&psig=AOvVaw3wJlp_-lORrGAR3JziNraF&ust=1722387746625000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDqu-LIzYcDFQAAAAAdAAAAABA3" align="center" width="1100px">
 
 
-
-Support 🙏
+<h1 align="center">Support 🙏</h1>
