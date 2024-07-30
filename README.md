@@ -52,7 +52,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="center" width="1100px">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbiprajitpaul5555&psig=AOvVaw3wJlp_-lORrGAR3JziNraF&ust=1722387746625000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDqu-LIzYcDFQAAAAAdAAAAABA3" align="center" width="1100px">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" align="center" width="1100px">
 
 
 <h1 align="center">Support 🙏</h1>
