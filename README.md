@@ -1,4 +1,4 @@
-![(https://github.com/user-attachments/assets/81193683-b4a4-4dd5-813f-1ac55d5ed368)]
+![https://github.com/user-attachments/assets/81193683-b4a4-4dd5-813f-1ac55d5ed368]
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EF89&width=435&lines=Hi👋....+I'm+ Debanshu..!! ;This+ is + my+ Github...!!;" alt="Typing SVG" /></a>
