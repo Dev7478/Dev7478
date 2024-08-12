@@ -1,4 +1,4 @@
-<img src="https://github.com/Dev7478/Dev7478/blob/main/www.reallygreatsite.com%20(2).png" width="1100px" height="270px">
+<img src="https://github.com/user-attachments/assets/81193683-b4a4-4dd5-813f-1ac55d5ed368" width="1100px" height="270px">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EF89&width=435&lines=Hi👋....+I'm+ Debanshu..!! ;This+ is + my+ Github...!!;" alt="Typing SVG" /></a>
