@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EF89&width=435&lines=Hi👋....+I'm+ Debanshu..!! ;This+ is + my+ Github...!!;" alt="Typing SVG" /></a>
-</h1>
-<img align="center" width="1100px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</h1><img align="center" width="1100px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 <h3 align="center">> I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
