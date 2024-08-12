@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dev7478&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="right" width="250px"><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev7478&theme=dark&hide_border=false)
-<img src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyOTg3NTUsIm5iZiI6MTcyMjI5ODQ1NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzktMGRiMzIyOTAtYzE5My00YjMyLTk1ZGMtNDEzY2U5ZTQ0NmE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzMwVDAwMTQxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzN2Y4MDhmYTA3Mzg2NWE2OTVhODJlODIwMzliN2UzOWYwNWIzYzZmNjQ5ZGUwOTAyYzYwMThkYzc1M2E2NjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yBASWF9PQ-KHHuzG-16EEGp2AiEhUuTTtViyxIpT7rk" align="right" width="200px"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="200px"><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7478&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="200px">
 
