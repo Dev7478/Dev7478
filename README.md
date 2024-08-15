@@ -1,6 +1,4 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="1100px">
-<img src="" width="1100px" height="250px">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EF89&width=435&lines=Hi👋....+I'm+ Debanshu..!! ;This+ is + my+ Github...!!;" alt="Typing SVG" /></a>
 </h1><img align="center" width="1100px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
