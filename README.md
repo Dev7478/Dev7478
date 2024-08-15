@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="1100px">
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EF89&width=435&lines=Hi👋....+I'm+ Debanshu..!! ;This+ is + my+ Github...!!; I'm+ Currently+ Persuing+ my ; B.Tech+ in+ Computer Science" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.=com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EF89&width=435&lines=Hi👋....+I'm+ Debanshu..!! ;This+ is + my+ Github...!!; I'm+ an+ undergrad ;Persuing+ B.Tech+ in+ CSE" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center"> I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
 <img src="Untitled.gif" >
