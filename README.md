@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
-<h2 align="center"> 🏆Statistics </h2>
+<h1 align="center"> 🏆Statistics </h1>
 <div align="center">
 <a href="https://github.com/Dev7478">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev7478&theme=2077" height="180em" />
