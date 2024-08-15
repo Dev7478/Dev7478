@@ -43,7 +43,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dev7478?cardType=github&theme=highcontrast&preferLogin=false&Text=FFD130&Title=DD2727&Background=01022EAB&custom_title=Stats)](https://git.io/awesome-stats-card)
+<h2 align="center"> 🏆Statistics </h2>
+<div align="center">
+<a href="https://github.com/Dev7478">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev7478&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev7478&theme=2077" height="180em" />
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
 
 ## 📊 Contribution:-
