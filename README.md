@@ -42,6 +42,9 @@
 ## 📊 Contribution:-
 ![snake gif](https://github.com/Dev7478/Dev7478/blob/output/github-contribution-grid-snake-dark.svg)
 
+## Activity Graph:-
+![](https://camo.githubusercontent.com/1a2c0647d9b070ea31c0d312ffd4367e914b8d7b3c633d9e8be416fdc3ef8e64/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d61726e6162323336267468656d653d676f7468616d)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="190px" height="147px">
