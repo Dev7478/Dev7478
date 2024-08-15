@@ -42,7 +42,7 @@
 ## 📊 Contribution:-
 ![snake gif](https://github.com/Dev7478/Dev7478/blob/output/github-contribution-grid-snake-dark.svg)
 
-## Activity Graph:-
+## ⚡Activity Graph:-
 [![Debanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev7478&theme=react-dark)](https://github.com/Dev7478/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
