@@ -2,8 +2,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7EF89&width=435&lines=Hi👋....+I'm+ Debanshu..!! ;This+ is + my+ Github...!!;" alt="Typing SVG" /></a>
 </h1><img align="center" width="1100px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-<h3 align="center">> I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
+<h3 align="center"> I'm a passionate developer specializing in web technologies. I enjoy building cool projects and learning new things.</h3>
 <img src="https://github.com/user-attachments/assets/e059a71f-c381-4b07-9cf3-0998505e880d" width="1100px" height="250px">
+<img align="center" width="1100px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7478&label=Profile%20views&color=0e75b6&style=flat" alt="dev7478" /> </p>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="img" width="450px">
 <p align="left"> <a href="https://twitter.com/dev_chatterjee_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_chatterjee_?logo=twitter&style=for-the-badge" alt="dev_chatterjee_" /></a> </p>
