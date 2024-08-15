@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
-<img src="https://github-readme-stats.vercel.app/api?username=Dev7478&show_icons=true&locale=en&theme=merko&rank_icon=github&include_all_commits=false&custom_title=Debanshu's Github Stats">
+![](https://github-readme-stats.vercel.app/api?username=Dev7478&show_icons=true&locale=en&theme=merko&rank_icon=github&include_all_commits=false&custom_title=Debanshu's_Github_Stats)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
 
 ## 📊 Contribution:-
