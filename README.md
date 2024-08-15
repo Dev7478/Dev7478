@@ -22,6 +22,9 @@
 <a href="https://linkedin.com/in/debanshu-chatterjee-dev-61a121265" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="debanshu-chatterjee-dev-61a121265" height="70" width="70" /></a>
 <a href="https://fb.com/debanshuchatterjee.anshu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="debanshuchatterjee.anshu" height="70" width="70" /></a>
 <a href="https://instagram.com/midnight_rider_060" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="midnight_rider_060" height="70" width="70" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/debanshuchatter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/debanshuchatter1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/dev7478/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dev7478/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/debanshuch2vyg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/debanshuch2vyg/" height="30" width="40" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
 <h3 align="left">💻Languages & Tech Stack:</h3>
