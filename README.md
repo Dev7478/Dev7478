@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **debanshuchatterrjee@gmail.com**
 
-<h2 align="left">🌐 Socials::</h2>
+<h2 align="left">🌐 Socials:</h2>
 <p align="left">
 <a href="https://twitter.com/dev_chatterjee_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="dev_chatterjee_" height="70" width="70" /></a>
 <a href="https://linkedin.com/in/debanshu-chatterjee-dev-61a121265" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="debanshu-chatterjee-dev-61a121265" height="70" width="70" /></a>
