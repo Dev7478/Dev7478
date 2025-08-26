@@ -37,9 +37,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dev7478&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="right" width="250px"><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev7478&theme=transparent&hide_border=false)
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="200px"><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7478&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="200px">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7478&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev7478&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
