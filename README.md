@@ -53,7 +53,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
 
 ## 📊 Contribution:-
-![snake gif](https://github.com/Dev7478/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Dev7478/Dev7478/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## ⚡Activity Graph:-
 [![Debanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev7478&theme=react-dark)](https://github.com/Dev7478/github-readme-activity-graph)
