@@ -35,15 +35,10 @@
 
 ## 📊 GitHub Stars:
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7478&langs_count=8&theme=transparent" alt=Dev7478 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev7478&show_icons=true&locale=en&theme=transparent" alt="Dev7478" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev7478&theme=transparent" alt="Dev7478" /></p>
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="right" width="250px"><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?username=Dev7478&theme=transparent&hide_border=false)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev7478&show_icons=true&locale=en&theme=transparent" alt="Dev7478" /></p>
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="200px">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7478&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev7478&theme=transparent" alt="Dev7478" /></p>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev7478&theme=darkhub" alt="Dev7478" /></a> </p>
