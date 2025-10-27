@@ -39,7 +39,8 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev7478&show_icons=true&locale=en&theme=transparent" alt="Dev7478" /></p>
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="200px">
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev7478&theme=transparent" alt="Dev7478" /></p>
-
+## 🏆Hactoberfest Holopin Badges
+[![An image of @dev7478's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dev7478)](https://holopin.io/@dev7478)
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev7478&theme=darkhub" alt="Dev7478" /></a> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
@@ -57,7 +58,7 @@
 ## ⚡Activity Graph:-
 [![Debanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev7478&theme=react-dark)](https://github.com/Dev7478/github-readme-activity-graph)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
-[![An image of @dev7478's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dev7478)](https://holopin.io/@dev7478)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="190px" height="147px">
