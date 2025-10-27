@@ -39,8 +39,10 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev7478&show_icons=true&locale=en&theme=transparent" alt="Dev7478" /></p>
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="200px">
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev7478&theme=transparent" alt="Dev7478" /></p>
+
 ## 🏆Hactoberfest Holopin Badges
 [![An image of @dev7478's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dev7478)](https://holopin.io/@dev7478)
+
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev7478&theme=darkhub" alt="Dev7478" /></a> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
