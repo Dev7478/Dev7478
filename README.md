@@ -57,6 +57,7 @@
 ## ⚡Activity Graph:-
 [![Debanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev7478&theme=react-dark)](https://github.com/Dev7478/github-readme-activity-graph)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1100px">
+[![An image of @dev7478's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dev7478)](https://holopin.io/@dev7478)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="190px" height="147px">
